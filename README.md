@@ -15,12 +15,16 @@
 
 ### 👋 About me
 
-I build products end to end, from the idea and the design to the code that ships.
+I lead a small team at **Hub Design**, and I build with them end to end, from the idea and the design to the code that ships.
 I founded **Hub Design**, a shared library of prompts, components and design resources for makers.
 
-من محصول رو از ایده و طراحی تا کدی که منتشر می‌شه خودم می‌سازم. هاب دیزاین رو راه انداختم؛ یه کتابخونهٔ اشتراکی از پرامپت، کامپوننت و منابع طراحی برای سازنده‌ها.
+من یه تیم کوچک رو در هاب دیزاین رهبری می‌کنم و با تیممان محصول رو از ایده و طراحی تا کدی که منتشر می‌شه می‌سازیم. هاب دیزاین رو راه انداختم؛ یه کتابخونهٔ اشتراکی از پرامپت، کامپوننت و منابع طراحی برای سازنده‌ها.
 
 ### 🚀 What I'm building
+
+I lead a small team, and together we build Hub Design and the other products.
+
+با تیممان در هاب دیزاین این محصول‌ها رو با هم می‌سازیم.
 
 - **[Hub Design](https://www.hubdesign.ir)**: prompt, component and design library
 - **Dordoriya**: Telegram chat & meetup bot ([@Dordoriya_bot](https://t.me/Dordoriya_bot))
@@ -33,6 +37,7 @@ I founded **Hub Design**, a shared library of prompts, components and design res
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ### 📫 Get in touch
