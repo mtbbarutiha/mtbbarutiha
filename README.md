@@ -20,6 +20,12 @@ I founded **Hub Design**, a shared library of prompts, components and design res
 
 من یه تیم کوچک رو در هاب دیزاین رهبری می‌کنم و با تیممان محصول رو از ایده و طراحی تا کدی که منتشر می‌شه می‌سازیم. هاب دیزاین رو راه انداختم؛ یه کتابخونهٔ اشتراکی از پرامپت، کامپوننت و منابع طراحی برای سازنده‌ها.
 
+### 📌 Currently
+
+The team is shipping new features for Hub Design and building more products.
+
+تیم قابلیت‌های جدید هاب دیزاین رو منتشر می‌کنه و محصول‌های بیشتری می‌سازه.
+
 ### 🚀 What I'm building
 
 I lead a small team, and together we build Hub Design and the other products.
@@ -39,6 +45,27 @@ I lead a small team, and together we build Hub Design and the other products.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+### 📊 GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mtbbarutiha&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=mtbbarutiha&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=default" />
+    <img alt="GitHub stats for mtbbarutiha" src="https://github-stats-extended.vercel.app/api?username=mtbbarutiha&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mtbbarutiha&layout=compact&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mtbbarutiha&layout=compact&hide_border=true&theme=default" />
+    <img alt="Top languages for mtbbarutiha" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mtbbarutiha&layout=compact&hide_border=true&theme=default" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mtbbarutiha&hide_border=true&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mtbbarutiha&hide_border=true&theme=default" />
+    <img alt="GitHub contribution streak for mtbbarutiha" src="https://streak-stats.demolab.com/?user=mtbbarutiha&hide_border=true&theme=default" />
+  </picture>
+</div>
 
 ### 📫 Get in touch
 
